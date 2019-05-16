@@ -1,1 +1,3 @@
 #+TITLE: cubelpa - Cub Emacs Lisp Package Archives
+
+[[https://circleci.com/gh/sximada/cubelpa.svg?style=svg]]
