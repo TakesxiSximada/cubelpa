@@ -1,0 +1,1 @@
+(testing :fetcher git :url "git@github.com.kuma:sximada/testing.git")
