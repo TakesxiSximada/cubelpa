@@ -2,6 +2,6 @@
 
 [[https://circleci.com/gh/sximada/cubelpa][https://circleci.com/gh/sximada/cubelpa.svg?style=svg]]
 
-./recipe
+[[./recipe]]
 
 Please place a recipe for Cubelpa here.  The format of the recipe is the same as Melpa.
